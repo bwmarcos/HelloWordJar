@@ -1,3 +1,3 @@
 # Template-Maven-Jar
 
-Base Template to Incial Maven Desktop aplication
+Base Template to Inicial Maven Desktop aplication
